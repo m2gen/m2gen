@@ -1,2 +1,2 @@
-##### Laravelでサイト作ったり、Pythonでwebスクレイピングをしてます
+##### Laravelでサイト作ったり、Pythonでwebスクレイピングをしている大学生です
 
